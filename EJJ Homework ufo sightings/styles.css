@@ -1,0 +1,25 @@
+body {
+    background-color: gray;
+    color: white;
+}
+
+.jumbotron {
+    background-position: center top;
+    margin: 5px;
+    background-image: url(https://amp.businessinsider.com/images/5b9fc0552be4ab980e8b5982-750-375.jpg)
+    ;
+    background-size: auto 200%;
+    color: white;
+    text-align: center;
+}
+
+.form-control {
+    display: inline-block;
+    width: 145px;
+}
+
+table {
+    table-layout: fixed;
+    background-color: black;
+    color: white;
+}
